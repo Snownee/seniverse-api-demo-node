@@ -1,5 +1,3 @@
-
-const UID = "UB1FACA61F"; // 测试用 用户ID，请更换成您自己的用户ID
 const KEY = "3hmktthzvvhmh57c"; // 测试用 key，请更换成您自己的 Key
 var location = "Beijing"; // 除拼音外，还可以使用 v3 id、汉语等形式
 
